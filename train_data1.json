@@ -1,0 +1,20 @@
+[
+    { "input": "vue", "output": "developers" },
+    { "input": "react", "output": "developers" },
+    { "input": "react native", "output": "developers" },
+    { "input": "react js", "output": "developers" },
+    { "input": "js", "output": "developers" },
+    { "input": "javascript", "output": "developers" },
+    { "input": "developers", "output": "developers" },
+    { "input": "coding", "output": "developers" },
+    { "input": "code", "output": "developers" },
+    { "input": "programming", "output": "developers" },
+    { "input": "java", "output": "developers" },
+    { "input": "c", "output": "developers" },
+    { "input": "c++", "output": "developers" },
+    { "input": "c#", "output": "developers" },
+    { "input": "angular", "output": "developers" },
+    { "input": "machine learning", "output": "developers" },
+    { "input": "ai", "output": "developers" },
+    { "input": "data science", "output": "developers" }
+]
